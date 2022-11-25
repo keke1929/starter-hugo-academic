@@ -32,15 +32,12 @@ organizations:
     url: https://www.stanford.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ph.D Electrical Engineering
+      institution: ShanghaiTech University
+      year: 2019
+    - course: B.S. Electrical Engineering and automation
+      institution: B.S. Electrical Engineering and automation
+      year: 2015
 superuser: true
 last_name: Bighetti
 highlight_name: true
