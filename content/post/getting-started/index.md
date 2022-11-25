@@ -1,28 +1,24 @@
 ---
 title: Review：Tesla Motors and new-energy automobile industry of China
 subtitle: 复盘：特斯拉与中国新能源汽车产业
-date: 2020-12-13T00:00:00Z
+date: 2022-01-21T07:00:00.000Z
 summary: Welcome 👋 We know that first impressions are important, so we've
   populated your new site with some initial content to help you get familiar
   with everything in no time.
 draft: false
 featured: false
 authors:
-  - admin
-  - 吳恩達
+  - WangLiang，WangHaoyu
 lastmod: 2020-12-13T00:00:00Z
-tags:
-  - Academic
-  - 开源
-categories:
-  - Demo
-  - 教程
+tags: []
+categories: []
 projects: []
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
   focal_point: ""
   placement: 2
   preview_only: false
+  filename: null
 ---
 
 ```python
