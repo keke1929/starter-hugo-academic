@@ -3,7 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Liang Wang‘s resume # Website name
+<<<<<<< HEAD
+title: Liang Wang’s Resume # Website name
+>>>>>>> bcb4e464d2b08b0149089280f331f0a458f02065
 baseURL: 'https://example.com/' # Website URL
 
 ############################
