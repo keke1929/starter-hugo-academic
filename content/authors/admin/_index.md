@@ -1,7 +1,7 @@
 ---
 title: WangLiang王良
-role: Ph.D Electrical Engineering
-avatar_filename: img_0497.jpg
+role: Ph.D student in Shanghaitech University
+avatar_filename: 3959c07667ab6507d8da776ff7ed86e.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
