@@ -51,7 +51,7 @@ url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /L. Wang, H. Wang, Y. Liu, J. Liang and M. Fu, "A Fully ZVS Dual-Active-Bridge Based Three-Port Converter with High Integration," *2021 IEEE Applied Power Electronics Conference and Exposition (APEC)*, 2021, pp. 1410-1415, doi: 10.1109/APEC42165.2021.9487170. %}}
+{{% /L. Wang, H. Wang, Y. Liu, J. Liang and M. Fu, "A Fully ZVS Dual-Active-Bridge Based Three-Port Converter with High Integration," 2021 IEEE Applied Power Electronics Conference and Exposition (APEC), 2021, pp. 1410-1415, doi: 10.1109/APEC42165.2021.9487170. %}}
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
