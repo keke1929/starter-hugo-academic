@@ -1,79 +1,53 @@
 ---
-title: 'An example conference paper'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+abstract: A novel dual-active-bridge based three-port con- verter (TPC) is
+  proposed for islanded dc microgrids. The pro- posed converter can interface
+  among three ports (PV source, battery, and dc-link) simultaneously with high
+  integration. Rechargeable battery operates as an energy buffer to compensate
+  for power mismatch between PV source and dc-link. Electric power can flow
+  bi-directionally between the battery and dc-link. Pulse-width-modulation (PWM)
+  on the primary side is utilized to realize the maximum power point tracking
+  (MPPT) of PV panel. An optimized phase-shift-modulation (PSM) is introduced to
+  regulate power flow, ensure ZVS among all MOSFETs and reduce circulating
+  current over a wide range. To verify this concept, a 500 W rated prototype is
+  designed. The designed prototype exhibits high efficiency in various operating
+  modes. The experimental results agree well with the theoretical analysis.
+slides: ""
+url_pdf: ""
+publication_types:
+  - "1"
 authors:
-  - admin
-  - Robert Ford
-
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-
-date: '2013-07-01T00:00:00Z'
-doi: ''
-
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ['1']
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
+  - L. Wang
+  - H. Wang
+author_notes: []
+publication: In *IEEE Applied Power Electronics Conference and Exposition *
+summary: In this paper, a partially isolated bi-directional TPC with PWM and PSM
+  hybrid modulation scheme is proposed. Six operating modes of the TPC can be
+  classified due to mul- tifunctional application. The operating principles and
+  theo- retical analysis are detailed. Optimal design considerations are
+  discussed to ensure secure ZVS over a wide range. The parameters of the
+  converter are optimized to reduce the reactive power, which helps to enhance
+  efficiency. Finally, a 500W rated prototype is tested to verify the proof of
+  concept. Experimental results demonstrate the feasibility and effective- ness
+  of the proposed topology and modulation scheme.
+url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
+url_project: ""
+publication_short: In *APEC*
+url_source: https://github.com/wowchemy/wowchemy-hugo-themes
+url_video: https://youtube.com
+title: A Fully ZVS Dual-Active-Bridge based Three-Port Converter with High Integration
+doi: https://doi.org/10.1109/APEC42165.2021.9487170
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com'
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+tags: []
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-  - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+date: 2013-07-01T00:00:00Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
 
 {{% callout note %}}
