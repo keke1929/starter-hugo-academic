@@ -43,19 +43,18 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-date: 2013-07-01T00:00:00Z
+date: 2021-06-17T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
+{{% callout note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /L. Wang, H. Wang, Y. Liu, J. Liang and M. Fu, "A Fully ZVS Dual-Active-Bridge Based Three-Port Converter with High Integration," *2021 IEEE Applied Power Electronics Conference and Exposition (APEC)*, 2021, pp. 1410-1415, doi: 10.1109/APEC42165.2021.9487170. %}}
 
 {{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
+Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
