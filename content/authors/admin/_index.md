@@ -1,7 +1,7 @@
 ---
 title: WangLiang王良
-role: Ph.D student in Shanghaitech University
-avatar_filename: 3959c07667ab6507d8da776ff7ed86e.jpg
+role: "Ph.D student "
+avatar_filename: img_0309.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -28,8 +28,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Shanghaitech University
+    url: https://www.shanghaitech.edu.cn/eng/
 education:
   courses:
     - course: Ph.D Electrical Engineering
@@ -42,7 +42,7 @@ superuser: true
 last_name: Bighetti
 highlight_name: true
 first_name: Alice
-email: ""
+email: wangliang1@shanghaitech.edu.cn
 ---
 
 Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
