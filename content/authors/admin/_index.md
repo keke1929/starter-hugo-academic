@@ -1,6 +1,6 @@
 ---
 title: WangLiang王良
-role: Professor of Artificial Intelligence
+role: Ph.D Electrical Engineering
 avatar_filename: img_0497.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
