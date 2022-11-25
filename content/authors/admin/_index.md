@@ -1,5 +1,5 @@
 ---
-title: WangLiang王良
+title: Liang Wang 王良
 role: "Ph.D student "
 avatar_filename: img_0309.jpg
 bio: My research interests include distributed robotics, mobile computing and
